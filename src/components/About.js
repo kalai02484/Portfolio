@@ -6,6 +6,7 @@ import Image from 'react-bootstrap/Image';
 import '../components/style.css';
 import AboutImg from '../img/about.jpg';
 import { ArrowRightCircle } from 'react-bootstrap-icons';
+// sample for git push
 
 function About() {
     return (
